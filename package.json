@@ -1,0 +1,27 @@
+{
+  "name": "webapp-example-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nabe847/webapp-example-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nabe847/webapp-example-1/issues"
+  },
+  "homepage": "https://github.com/Nabe847/webapp-example-1#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "typescript": "^5.0.2"
+  },
+  "volta": {
+    "node": "18.15.0"
+  }
+}
